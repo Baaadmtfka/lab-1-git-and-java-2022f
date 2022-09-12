@@ -1,3 +1,4 @@
+123456789
 ## Lab 1: Using Git and Java
 In this 'lab' activity, you'll be familiarizing yourself with Git, GitHub, and Java.
 
